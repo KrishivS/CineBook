@@ -1,0 +1,24 @@
+{
+    "book_details": [
+        {
+            "cinema_name": "Cruella",
+            "book_status": false
+        },
+        {
+            "cinema_name": "Shershaah",
+            "book_status": false
+        },
+        {
+            "cinema_name": "Boomika",
+            "book_status": false
+        },
+        {
+            "cinema_name": "Mimi",
+            "book_status": false
+        },
+        {
+            "cinema_name": "Mask",
+            "book_status": false
+        }
+    ]
+}
